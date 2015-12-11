@@ -60,7 +60,7 @@
   <project path="system/extras" name="android_system_extras" groups="pdk" remote="turbocandy" revision="mm" />
   <project path="system/vold" name="android_system_vold" groups="pdk" remote="turbocandy" revision="mm" />
   <project path="vendor/candy" name="vendor_candy" remote="candy" revision="c6" />
-  <project path="frameworks/native" name="frameworks/native" groups="pdk" remote="candy" revision="c6" />
+  <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="candy" revision="c6" />
 
   <!-- AOSP Repo's -->
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
