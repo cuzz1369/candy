@@ -298,7 +298,7 @@
   <project path="frameworks/minikin" name="platform/frameworks/minikin" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/ml" name="platform/frameworks/ml" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/multidex" name="platform/frameworks/multidex" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/native" name="SlimRoms/frameworks_native" remote="github" revision="mm6.0" />
+  <project path="frameworks/native" name="CyanogenMod/frameworks_native" remote="github" revision="cm-13.0" />
   <project path="frameworks/opt/bitmap" name="platform/frameworks/opt/bitmap" groups="pdk-fs" />
   <project path="frameworks/opt/bluetooth" name="SlimRoms/frameworks_opt_bluetooth" remote="github" revision="mm6.0" groups="pdk-cw-fs" />
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" groups="pdk-cw-fs,pdk-fs" />
@@ -344,7 +344,7 @@
   <project path="hardware/intel/img/psb_video" name="SlimRoms/hardware_intel_img_psb_video" remote="github" revision="mm6.0" />
   <project path="hardware/intel/sensors" name="platform/hardware/intel/sensors" groups="intel_sensors" />
   <project path="hardware/invensense" name="SlimRoms/hardware_invensense" remote="github" revision="mm6.0" />
-  <project path="hardware/libhardware" name="Candy6/hardware_libhardware" remote="github" revision="mm6.0" />
+  <project path="hardware/libhardware" name="CyanogenMod/hardware_libhardware" remote="github" revision="cm-13.0" />
   <project path="hardware/libhardware_legacy" name="SlimRoms/hardware_libhardware_legacy" remote="github" revision="mm6.0" />
   <project path="hardware/marvell/bt" name="platform/hardware/marvell/bt" groups="marvell_bt" />
   <project path="hardware/mediatek" name="platform/hardware/mediatek" groups="mediatek,mediatek_wear" />
