@@ -62,6 +62,9 @@
   <project path="vendor/candy" name="vendor_candy" remote="candy" revision="c6" />
   <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="candy" revision="c6" />
 
+  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-13.0" />
+  <project path="device/qcom/sepolicy" name="CyanogenMod/android_device_qcom_sepolicy" remote="github" revision="cm-13.0" />
+
   <!-- AOSP Repo's -->
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
   <project path="bionic" name="platform/bionic" groups="pdk" />
