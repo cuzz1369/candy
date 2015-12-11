@@ -59,7 +59,7 @@
   <project path="system/core" name="android_system_core" groups="pdk" remote="turbocandy" revision="mm" />
   <project path="system/extras" name="android_system_extras" groups="pdk" remote="turbocandy" revision="mm" />
   <project path="system/vold" name="android_system_vold" groups="pdk" remote="turbocandy" revision="mm" />
-  <project path="vendor/turbocandy" name="vendor_candy" remote="candy" revision="c6" />
+  <project path="vendor/candy" name="vendor_candy" remote="candy" revision="c6" />
 
   <!-- Kernel Source (Empty for now) -->
 
